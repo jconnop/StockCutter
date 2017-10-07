@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockCutter", "src\StockCutter.csproj", "{6A4C5637-AFB6-4167-B99F-1856F2B77D56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockCutterTests", "test\StockCutterTests.csproj", "{7142B6B4-FA9E-42D1-869E-80D6151DFE93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockCutter.Tests", "test\StockCutter.Tests.csproj", "{7142B6B4-FA9E-42D1-869E-80D6151DFE93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

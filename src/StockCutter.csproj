@@ -41,6 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithms\Abstract\Algorithm.cs" />
+    <Compile Include="Algorithms\Approximate\BestFit.cs" />
+    <Compile Include="Algorithms\Approximate\FirstFit.cs" />
+    <Compile Include="Algorithms\Bounds\L2.cs" />
+    <Compile Include="Algorithms\Optimal\BinCompletion.cs" />
+    <Compile Include="Algorithms\Optimal\ImprovedBinCompletion.cs" />
+    <Compile Include="Model\Bin.cs" />
+    <Compile Include="Model\Interfaces\IBin.cs" />
+    <Compile Include="Model\Interfaces\IPackable.cs" />
+    <Compile Include="Model\Item.cs" />
+    <Compile Include="Model\Problem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
